@@ -1,0 +1,11 @@
+{
+    "name": "Wi-Fi Map",
+    "version": "1.0.0",
+    "description": "Wi-Fi Map is a mobile application that helps users find free Wi-Fi hotspots around them. It provides a map interface where users can see the locations of available Wi-Fi networks, along with details such as network name, signal strength, and user reviews.",
+    "author": "Mohammad Mahfuz Rahman",
+    "license": "MIT",
+    "type": "app",
+    "category": "Tools",
+    "containsAds": false,
+    "ageRating": "13+"
+}
